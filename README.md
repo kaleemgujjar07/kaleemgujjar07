@@ -30,4 +30,4 @@
   Completed 5-week course with timely assignments and outstanding remarks.  
   ![Data Analytics Cert](path/to/your-uploaded-leverify-image.png)
 
-*(Note: The PDF you shared is for "Saleem Aijaz"—if this is yours under a different name or an error, upload and add it similarly. Otherwise, skip it.)*
+
