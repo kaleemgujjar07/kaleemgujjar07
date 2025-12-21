@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science (6th Semester)
+- 🎓 BS Computer Science (Last Semester)
 - 💻 Full Stack & Frontend Developer
 - 🤖 Learning **Machine Learning & Generative AI**
 - 🧠 Strong interest in **DSA & Problem Solving**
