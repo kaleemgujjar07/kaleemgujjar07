@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaleem</h1>
-<h3 align="center">Full Stack Developer | CS Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaleemgujjar07&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -17,7 +17,7 @@
 - 💻 Full Stack & Frontend Developer
 - 🤖 Learning **Machine Learning & Generative AI**
 - 🧠 Strong interest in **DSA & Problem Solving**
-- 🏗 Currently working on **AI and Data-Driven Systems**
+- 🏗 Currently working on **AI and Data-Driven Systems and as data analyst**
 - 🇵🇰 Pakistan
 
 ---
