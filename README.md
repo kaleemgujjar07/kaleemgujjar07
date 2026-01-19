@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaleem</h1>
 <h3 align="center">Final Year BS Computer Science Student | Data Science & Web Development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaleemgujjar07&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 <p align="center">
   Passionate about building practical, data-driven and scalable software solutions.
