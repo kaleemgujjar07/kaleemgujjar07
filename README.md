@@ -1,114 +1,88 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaleem</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Final Year BS Computer Science Student | Data Science & Web Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaleemgujjar07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  Passionate about building real-world, scalable web & AI-driven applications.
+  Passionate about building practical, data-driven and scalable software solutions.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BS Computer Science (Last year student)
-- 💻 Full Stack & Frontend Developer
-- 🤖 Learning **Machine Learning & Generative AI**
-- 🧠 Strong interest in **DSA & Problem Solving**
-- 🏗 Currently working on **AI and Data-Driven Systems and as data analyst**
-- 🇵🇰 Pakistan
+- 🎓 Final Year **BS Computer Science** student  
+- 📊 Strong interest in **Data Science, Machine Learning & NLP**
+- 🌐 Web Development experience (React, Next.js, Node.js)
+- 🏗 Worked on **ERP system** during software house internship
+- 🤖 Currently working on **AI-powered Eco-ERP (FYP)**
+- 🇵🇰 Based in Pakistan
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap" />
+### 💻 Programming & Web
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express" />
 
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+### 📊 Data Science & ML
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
 
-**AI / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=python" />
+**Libraries:** Pandas, NumPy, Scikit-learn, NLP, TF-IDF  
 
-**Tools & Platforms**
-<br/>
+### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Census Income Prediction
+- Cleaned & analyzed real-world census dataset
+- Handled missing values & data inconsistencies
+- **Tools:** Python, Pandas, NumPy
+
+### 🔹 AG News Classification (NLP)
+- Built text classification system using TF-IDF
+- Trained Logistic Regression & LinearSVC models
+- **Tools:** Python, Scikit-learn, NLP
+
+### 🔹 Cancer Detection
+- Breast cancer classification using ML
+- Data preprocessing, scaling & evaluation
+- **Tools:** Python, Scikit-learn
+
+### 🔹 Automatic Question Type Detection
+- NLP system for detecting question intent
+- Used TF-IDF & sentence embeddings
+- **Tools:** Python, NLP, Scikit-learn
+
+---
 
 ## 🏆 Certifications & Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Certifications-%20Achievements-blueviolet?style=for-the-badge" />
-</p>
+### 🧠 LeetCode 50 Days Badge
+<img src="https://raw.githubusercontent.com/kaleemgujjar07/kaleemgujjar07/main/assets/leetcode.png" width="350"/>
 
-<details>
-<summary><strong>🎯 Click to expand</strong></summary>
+- Solved problems consistently for 50+ days  
+- Improved DSA & problem-solving skills  
 
-<br/>
+### 🚀 NASA Space Apps Challenge
+<img src="https://raw.githubusercontent.com/kaleemgujjar07/kaleemgujjar07/main/assets/nasa.png" width="350"/>
 
-### 🧠 LeetCode 50 Days Badge (2025)
-<img src="https://img.shields.io/badge/LeetCode-DSA-orange?logo=leetcode&style=flat-square" />
+- Participated in global innovation hackathon  
+- Built solution for real-world challenges  
 
-- Issued by **LeetCode**
-- Solved problems consistently for **50+ days**
-- Improved algorithmic thinking & problem-solving
+### 📊 Data Analytics Program – Leverify
+<img src="https://raw.githubusercontent.com/kaleemgujjar07/kaleemgujjar07/main/assets/leverify.png" width="350"/>
 
-<img src="assets/leetcode.png" width="450"/>
-
----
-
-### 🚀 Galactic Problem Solver – NASA Space Apps Challenge
-<img src="https://img.shields.io/badge/NASA-Space%20Apps-black?logo=nasa&style=flat-square" />
-
-- Issued by **NASA**
-- 📅 October 4–5, 2025
-- Recognized for innovative Earth & space solutions
-
-<img src="assets/nasa.png" width="450"/>
+- 5-week intensive data analytics training  
 
 ---
 
-### 🤖 Generative AI Application Developer (Top Performer)
-<img src="https://img.shields.io/badge/Generative%20AI-Top%20Performer-brightgreen?logo=openai&style=flat-square" />
-
-- Issued by **UETIANS Lahore Endowment Foundation**
-- Partners: PakAngels, iCode Guru, Aspire Pakistan
-- 📅 August 28, 2025
-
-<img src="assets/genai.png" width="450"/>
-
----
-
-### ⚡ Qubic | Hack the Future Hackathon
-<img src="https://img.shields.io/badge/Hackathon-Qubic-purple?style=flat-square" />
-
-- Issued by **LabLab (NativelyAI)**
-- 📅 December 5–7, 2025
-- Built WebGPU/Qubic-based AI solution
-
-<img src="assets/lablab.png" width="450"/>
-
----
-
-### 📊 Leverify Quest – Data Analytics
-<img src="https://img.shields.io/badge/Data%20Analytics-Certified-blue?style=flat-square&logo=python" />
-
-- Issued by **Leverify**
-- 📅 May 2025
-- 5-week intensive analytics program
-
-<img src="assets/leverify.png" width="450"/>
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaleemgujjar07&show_icons=true&theme=tokyonight" />
@@ -122,6 +96,6 @@
 
 ## 📫 Connect With Me
 
-- 🔗 GitHub: https://github.com/kaleemgujjar07
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammadkaleem217
-
+- 💻 GitHub: https://github.com/kaleemgujjar07  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammadkaleem217  
+- 📧 Email: gujjarkaleem37@gmail.com
