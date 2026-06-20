@@ -1,44 +1,169 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaleem</h1>
-<h3 align="center">Software Engineer, Researcher, AI Expert, and Instructor at the same time</h3>
-  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MahaZainab&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
-<br/>
+<h3 align="center">
+Software Engineer | Machine Learning & Data Science Enthusiast | MS/PhD Aspirant
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
-<div align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahazainab&label=Profile%20views&color=0e75b6&style=flat" alt="mahazainab" />
-  <a href="https://user-badge.committers.top/pakistan/MahaZainab">
-    <img src="https://user-badge.committers.top/pakistan/MahaZainab.svg" alt="committers.top badge" />
-  </a>
+<p align="center">
+Passionate about Machine Learning, Natural Language Processing, Computer Vision, and Large Language Models.
+</p>
+
+<p align="center">
+<a href="https://github.com/Jurredr/github-widgetbox">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=kaleemgujjar07&data=followers,repositories,stars,commits&theme=light&hide_border=true" alt="GitHub WidgetBox">
+</a>
+</p>
+
+<br>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=kaleemgujjar07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-# Welcome to My GitHub Profile! 🌟
-I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
+# 👨‍💻 About Me
 
-working as a GRA
-- **Advent of Code**: Participated in 2025,2026 and solved al problems.
-- **CS50x Puzzle Day 2025**: Winner of the puzzle day organized by Harvard University.
-- **Duolingo**: Achieved a band score of 120/160 equivalent to IELTS 6.5 bands .
-- **Hackathons**: Participated in multiple international hackathon and collaborated with international team members.
+- 🎓 B.S. Software Engineering, Government College University Faisalabad
+- 🔬 Aspiring researcher interested in Artificial Intelligence and Data Science
+- 🌱 Currently exploring Machine Learning, NLP, Computer Vision, and Large Language Models
+- 💻 Building projects related to AI, Data Science, and Software Engineering
+- 🧩 Regularly solving LeetCode problems to strengthen problem-solving skills
+- 📚 Preparing for MS/PhD opportunities and research collaborations
+- 🤝 Open to research internships, collaborations, and academic opportunities
+- 📫 Reach me at: **gujjarkaleem37@gmail.com**
 
-- 🔭 I’m currently working on **Solving Leetcode problems, Building projects relevent to Machine learning, NLP and Computer vision **
+---
 
-- 📫 How to reach me **gujjarkaleem37@gmail.com**
+# 🔬 Research Interests
 
-- ⚡ Fun fact **Other than coding  I am a big fan of chocolates**
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Large Language Models (LLMs)
+- Distributed AI Systems
+- Data Science
+- AI for Transportation Safety
 
-<h3 align="left">Connect with me:</h3>
+---
+
+# 🏆 Achievements
+
+- 🎯 Achieved a **Duolingo English Test score of 120/160**
+- 🧠 Participated in **CS50x Puzzle Day 2025** organized by Harvard University
+- 💻 Successfully completed multiple **Advent of Code** programming challenges
+- 🌍 Participated in international hackathons and collaborated with global teams
+- 🚀 Continuously building projects and strengthening research skills in AI and Machine Learning
+
+---
+
+# 🚀 Current Focus
+
+- Solving LeetCode problems
+- Building Machine Learning projects
+- Exploring NLP and LLM applications
+- Learning advanced Deep Learning techniques
+- Reading and implementing research papers
+- Preparing applications for MS/PhD programs
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="http://www.linkedin.com/in/muhammadkaleem217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/muhammadkaleem217" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/kaleemgujjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kaleemgujjar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kaleem217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kaleem217/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadkaleem217" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/kaleemgujjar" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/kaleem217/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleemgujjar07&show_icons=true&locale=en&layout=compact" alt="Muhammad Kaleem" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleemgujjar07&show_icons=true&locale=en" alt="Muhammad Kaleem" /></p>
+# 🛠️ Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemgujjar07" alt="Muhammad Kaleem" /></p>
+<p align="left">
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kaleemgujjar07&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemgujjar07" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleemgujjar07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+# 📖 Favorite Areas of Study
+
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Data Science
+- Algorithms & Data Structures
+- Software Engineering
+- Distributed Systems
+
+---
+
+# 💡 Motto
+
+> "Continuous learning, research-driven innovation, and impactful problem solving."
