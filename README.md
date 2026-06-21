@@ -16,12 +16,6 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 
 <br>
 
-<!-- <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=kaleemgujjar07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div> -->
-
 # 👨‍💻 About Me
 
 - 🎓 B.S. Computer science, Government College University Faisalabad
@@ -74,50 +68,76 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 
 ---
 
-# 🛠️ Languages & Tools
+# 💻 Tech Stack
 
-<p align="left">
+### 💻 Programming Languages
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+</p>
 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-</a>
+---
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
+### 🎨 Frontend Development
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,vite,materialui,sass" />
+</p>
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-</a>
+---
 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
-</a>
+### ⚙️ Backend Development
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm,graphql" />
+</p>
 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
-</a>
+---
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-</a>
+### 🗄️ Databases
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+</p>
 
+---
+
+### 🤖 AI / Machine Learning / Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,kubernetes,tensorflow,pytorch" />
 </p>
 
 ---
@@ -140,27 +160,22 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/kaleemgujjar07/leetcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT1" />
-</a>
+<p align="center">
+  <a href="https://github.com/kaleemgujjar07/leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=leetcode" />
+  </a>
 
-<a href="https://github.com/kaleemgujjar07/FINAL-YEAR-PROJECT ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT2" />
-</a>
-
-<a href="https://github.com/kaleemgujjar07/Ag_news_classification_NLP ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT1" />
-</a>
-
-<a href="https://github.com/kaleemgujjar07/EXPENSE--MANAGER ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT2" />
-</a>
-
-
----
-
-## 📅 Contribution Calendar
+  <a href="https://github.com/kaleemgujjar07/FINAL-YEAR-PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=FINAL-YEAR-PROJECT"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/kaleemgujjar07" alt="Contribution Calendar" />
+  <a href="https://github.com/kaleemgujjar07/ProfScope-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=ProfScope-AI" />
+  </a>
+
+  <a href="https://github.com/kaleemgujjar07/Eco-guardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=Eco-guardian" />
+  </a>
 </p>
