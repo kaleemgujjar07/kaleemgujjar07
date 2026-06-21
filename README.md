@@ -155,27 +155,3 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleemgujjar07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/kaleemgujjar07/leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=leetcode" />
-  </a>
-
-  <a href="https://github.com/kaleemgujjar07/FINAL-YEAR-PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=FINAL-YEAR-PROJECT"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaleemgujjar07/ProfScope-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=ProfScope-AI" />
-  </a>
-
-  <a href="https://github.com/kaleemgujjar07/Eco-guardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=Eco-guardian" />
-  </a>
-</p>
