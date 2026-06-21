@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaleem</h1>
 
 <h3 align="center">
-Software Engineer | Machine Learning & Data Science Enthusiast | MS/PhD Aspirant
+Software Engineer | MERN Stack Developer | Machine Learning Enthusiast | MS/PhD Aspirant
 </h3>
 
 <p align="center">
@@ -16,15 +16,15 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 
 <br>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+<!-- <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=kaleemgujjar07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
 
 # 👨‍💻 About Me
 
-- 🎓 B.S. Software Engineering, Government College University Faisalabad
+- 🎓 B.S. Computer science, Government College University Faisalabad
 - 🔬 Aspiring researcher interested in Artificial Intelligence and Data Science
 - 🌱 Currently exploring Machine Learning, NLP, Computer Vision, and Large Language Models
 - 💻 Building projects related to AI, Data Science, and Software Engineering
@@ -35,22 +35,9 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 
 ---
 
-# 🔬 Research Interests
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Large Language Models (LLMs)
-- Distributed AI Systems
-- Data Science
-- AI for Transportation Safety
-
----
-
 # 🏆 Achievements
 
-- 🎯 Achieved a **Duolingo English Test score of 120/160**
+- 🎯 Achieved a **Duolingo English Test score of 120/160 Equivalent to IELTS 6.5 bands**
 - 🧠 Participated in **CS50x Puzzle Day 2025** organized by Harvard University
 - 💻 Successfully completed multiple **Advent of Code** programming challenges
 - 🌍 Participated in international hackathons and collaborated with global teams
@@ -151,19 +138,29 @@ Passionate about Machine Learning, Natural Language Processing, Computer Vision,
 
 ---
 
-# 📖 Favorite Areas of Study
+## 🚀 Featured Projects
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Computer Vision
-- Data Science
-- Algorithms & Data Structures
-- Software Engineering
-- Distributed Systems
+<a href="https://github.com/kaleemgujjar07/leetcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT1" />
+</a>
+
+<a href="https://github.com/kaleemgujjar07/FINAL-YEAR-PROJECT ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT2" />
+</a>
+
+<a href="https://github.com/kaleemgujjar07/Ag_news_classification_NLP ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT1" />
+</a>
+
+<a href="https://github.com/kaleemgujjar07/EXPENSE--MANAGER ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaleemgujjar07&repo=PROJECT2" />
+</a>
+
 
 ---
 
-# 💡 Motto
+## 📅 Contribution Calendar
 
-> "Continuous learning, research-driven innovation, and impactful problem solving."
+<p align="center">
+  <img src="https://ghchart.rshah.org/kaleemgujjar07" alt="Contribution Calendar" />
+</p>
